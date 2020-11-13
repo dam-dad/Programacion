@@ -1,6 +1,6 @@
 ---
-description: Programación DAD
+description: Programación del módulo de Desarrollo de Interfaces
 ---
 
-# Initial page
+# Programación DAD
 
